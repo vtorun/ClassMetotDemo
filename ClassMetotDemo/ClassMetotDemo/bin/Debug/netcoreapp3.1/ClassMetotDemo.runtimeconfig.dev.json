@@ -1,8 +1,0 @@
-{
-  "runtimeOptions": {
-    "additionalProbingPaths": [
-      "C:\\Users\\volka\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\volka\\.nuget\\packages"
-    ]
-  }
-}
